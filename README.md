@@ -21,7 +21,7 @@
 <h1 align="center">👋 Hi there! I'm Erik Silva </h1>
 
 <div align="center">
-💻 **Full Stack Developer** | 📊 **Data Scientist** | 🌍 From **Sorocaba, SP - Brazil**  
+💻 Full Stack Developer | 📊 Data Scientist | 🌍 From Sorocaba, SP - Brazil  
 </div>
 
 ###
